@@ -1,0 +1,1337 @@
+{
+ "disciplinas": [
+  {
+   "periodo": 1,
+   "pasta": "01_Periodo/01_Desenho_Universal",
+   "nome": "Desenho Universal",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Conceito e os 7 princípios do Desenho Universal",
+    "Acessibilidade e ABNT NBR 9050",
+    "Rotas acessíveis, rampas e sinalização",
+    "Tecnologia assistiva e acessibilidade em sistemas elétricos (altura de tomadas, interruptores, quadros)"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 1,
+   "pasta": "01_Periodo/02_Inovacao_e_Design_Thinking",
+   "nome": "Inovação e Design Thinking",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Fases do Design Thinking (empatia, definição, ideação, prototipação, teste)",
+    "Personas, mapa de empatia e jornada do usuário",
+    "Tipos de inovação e modelo Canvas",
+    "MVP e validação de hipóteses"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 1,
+   "pasta": "01_Periodo/03_Introducao_a_Engenharia",
+   "nome": "Introdução à Engenharia",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Atribuições do engenheiro eletricista (Sistema CONFEA/CREA, ART)",
+    "Sistema Internacional de Unidades e prefixos",
+    "Algarismos significativos e análise dimensional",
+    "Ordens de grandeza e estimativas (problemas de Fermi)",
+    "Ética profissional e segurança (NR-10)"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 1,
+   "pasta": "01_Periodo/04_Introducao_ao_Calculo",
+   "nome": "Introdução ao Cálculo",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Conjuntos numéricos, intervalos e inequações",
+    "Funções: afim, quadrática, modular, composta e inversa",
+    "Exponencial e logaritmo (aplicação: decibéis)",
+    "Trigonometria e números complexos (base para fasores)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Pré-Calculo - Paulo Boulos.pdf",
+    "Bibliografia/Livros/Iniciação a lógica - ALENCAR_FILHO_Edgard.pdf"
+   ],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 2,
+   "pasta": "02_Periodo/01_Calculo_I",
+   "nome": "Cálculo Diferencial e Integral I",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Limites e continuidade",
+    "Derivadas e regras de derivação",
+    "Aplicações: taxas relacionadas, máximos e mínimos, L'Hôpital",
+    "Integral indefinida e definida, Teorema Fundamental",
+    "Técnicas de integração e aplicações (área, valor médio e eficaz)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Cálculo com Geometria Analítica - Leithold.pdf",
+    "Bibliografia/Livros/Cálculo com Geometria Analítica Swokowski.pdf",
+    "Bibliografia/Livros/Problemas e exercicios de Análise Matemática - Demidovitch.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "MAT/141",
+     "pasta": "Materiais/MAT141_Calculo_I_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 2,
+   "pasta": "02_Periodo/02_Expressao_Grafica",
+   "nome": "Expressão Gráfica",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Normas de desenho técnico (ABNT NBR 10068, 8403, 10126)",
+    "Escalas, cotagem e vistas ortográficas (1º diedro)",
+    "Perspectiva isométrica",
+    "Plantas baixas e simbologia elétrica (NBR 5444)",
+    "CAD (AutoCAD/LibreCAD/QElectroTech)"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ARQ/201",
+     "pasta": "Materiais/ARQ201_Representacao_Grafica_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 2,
+   "pasta": "02_Periodo/03_Geometria_Analitica_e_Algebra_Linear",
+   "nome": "Geometria Analítica e Álgebra Linear",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Matrizes, determinantes e sistemas lineares",
+    "Vetores: produto escalar, vetorial e misto",
+    "Retas e planos",
+    "Espaços vetoriais, base e dimensão",
+    "Transformações lineares, autovalores e autovetores"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Álgebra Linear Boldrini.pdf",
+    "Bibliografia/Livros/Algebra Linear Steinbruche - Atualizado.pdf",
+    "Bibliografia/Livros/Algebra Linear Reginaldo.pdf",
+    "Bibliografia/Livros/Geometria Analitica Um Tratamento Vetorial - Paulo Boulos.pdf",
+    "Bibliografia/Livros/Geometria Analítica - Steinbruch.pdf",
+    "Bibliografia/Livros/Geometria Analitica Reginaldo.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "MAT/135",
+     "pasta": "Materiais/MAT135_GAAL_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 2,
+   "pasta": "02_Periodo/04_Quimica_Inorganica",
+   "nome": "Química Inorgânica",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Estrutura atômica e distribuição eletrônica",
+    "Tabela periódica e propriedades periódicas",
+    "Ligações químicas (iônica, covalente, metálica)",
+    "Estequiometria",
+    "Eletroquímica: pilhas, eletrólise e corrosão (aterramento, baterias)"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "QUI/100",
+     "pasta": "Materiais/QUI100_Quimica_Geral_UFV"
+    },
+    {
+     "origem": "QUI/107",
+     "pasta": "Materiais/QUI107_Lab_Quimica_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 2,
+   "pasta": "02_Periodo/05_Textos_Cientificos",
+   "nome": "Textos Científicos: Aspectos Metodológicos e Linguísticos",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Gêneros acadêmicos: resumo, resenha, artigo, relatório técnico",
+    "Estrutura IMRaD",
+    "Citações e referências (ABNT NBR 6023 e 10520)",
+    "Coesão, coerência e linguagem técnica",
+    "Busca bibliográfica (IEEE Xplore, Periódicos CAPES, Google Scholar)"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "LET/104",
+     "pasta": "Materiais/LET104_Portugues_Instrumental_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 3,
+   "pasta": "03_Periodo/01_Calculo_II",
+   "nome": "Cálculo Diferencial e Integral II",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Funções de várias variáveis, derivadas parciais e gradiente",
+    "Máximos, mínimos e multiplicadores de Lagrange",
+    "Integrais duplas e triplas (coordenadas polares, cilíndricas, esféricas)",
+    "Sequências e séries; séries de potências e de Taylor",
+    "Introdução às séries de Fourier"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Cálculo com Geometria Analítica - Leithold.pdf",
+    "Bibliografia/Livros/Cálculo com Geometria Analítica Swokowski.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "MAT/143",
+     "pasta": "Materiais/MAT143_Calculo_UFV"
+    },
+    {
+     "origem": "MAT/243",
+     "pasta": "Materiais/MAT243_Calculo_III_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 3,
+   "pasta": "03_Periodo/02_Circuitos_Eletricos_I",
+   "nome": "Circuitos Elétricos I",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Grandezas elétricas, Lei de Ohm e potência",
+    "Leis de Kirchhoff, associação de resistores, divisores",
+    "Análise nodal e de malhas",
+    "Teoremas: superposição, Thévenin, Norton, máxima transferência de potência",
+    "Capacitores, indutores e circuitos RC/RL/RLC no tempo",
+    "Regime permanente senoidal: fasores e impedância"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Fundamentos de Analise de Circuitos Eletricos Ed 4 - Johnson.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Gabarito_Johnson_Parte_1.pdf",
+    "Bibliografia/Solutions/Gabarito_Johnson_Parte_2.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Circuitos Elétricos/Lab I",
+     "pasta": "Materiais/Lab_Circuitos_I_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 3,
+   "pasta": "03_Periodo/03_Fisica_do_Movimento",
+   "nome": "Física do Movimento",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Cinemática em 1D e 2D, lançamento de projéteis",
+    "Leis de Newton e atrito",
+    "Trabalho, energia e potência",
+    "Momento linear e colisões",
+    "Movimento circular e rotação"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Física 1 - Young e Freedman - 12ªed.PDF"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Física (I, II, III, IV) - Young _ Freedman - 12ª Edição.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "FIS/201",
+     "pasta": "Materiais/FIS201_Fisica_I_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 3,
+   "pasta": "03_Periodo/04_Introducao_a_Programacao",
+   "nome": "Introdução à Programação de Computadores",
+   "ch": 80,
+   "situacao": "Dispensado",
+   "topicos": [
+    "Algoritmos, variáveis e tipos",
+    "Estruturas de decisão e repetição",
+    "Funções e modularização",
+    "Listas, tuplas, dicionários e strings",
+    "Arquivos e bibliotecas científicas (NumPy, Matplotlib)"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "INF/100",
+     "pasta": "Materiais/INF100_Intro_Programacao_UFV"
+    },
+    {
+     "origem": "INF/101",
+     "pasta": "Materiais/INF101_Python_UFV"
+    },
+    {
+     "origem": "INF/280",
+     "pasta": "Materiais/INF280_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 3,
+   "pasta": "03_Periodo/05_Probabilidade_e_Estatistica",
+   "nome": "Probabilidade e Estatística",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Estatística descritiva",
+    "Probabilidade, Bayes e independência",
+    "Variáveis aleatórias: binomial, Poisson, exponencial, normal",
+    "Intervalos de confiança e testes de hipótese",
+    "Correlação e regressão linear; confiabilidade (MTBF)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Iniciacao a Estatistica (Apostila).pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "EST/106",
+     "pasta": "Materiais/EST106_Estatistica_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 4,
+   "pasta": "04_Periodo/01_Circuitos_Eletricos_II",
+   "nome": "Circuitos Elétricos II",
+   "ch": 80,
+   "situacao": "Cursando",
+   "topicos": [
+    "Potência em CA: ativa, reativa, aparente e fator de potência; correção do FP",
+    "Circuitos trifásicos equilibrados (Y e Δ) e potência trifásica",
+    "Frequência complexa e Transformada de Laplace aplicada a circuitos",
+    "Função de transferência, resposta em frequência, Bode e filtros",
+    "Acoplamento magnético e transformador ideal",
+    "Quadripolos e série de Fourier em circuitos"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Fundamentos de Analise de Circuitos Eletricos Ed 4 - Johnson.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Gabarito_Johnson_Parte_1.pdf",
+    "Bibliografia/Solutions/Gabarito_Johnson_Parte_2.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Circuitos Elétricos/II",
+     "pasta": "Materiais/Circuitos_II_UFV"
+    },
+    {
+     "origem": "ELT/Circuitos Elétricos/Lab II",
+     "pasta": "Materiais/Lab_Circuitos_II_UFV"
+    },
+    {
+     "origem": "ELT/Polifasicos",
+     "pasta": "Materiais/Circuitos_Polifasicos_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 4,
+   "pasta": "04_Periodo/02_Eletromagnetismo",
+   "nome": "Eletromagnetismo",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Análise vetorial e sistemas de coordenadas",
+    "Lei de Coulomb, campo elétrico e Lei de Gauss",
+    "Potencial elétrico, capacitância e energia",
+    "Campo magnético: Biot-Savart e Ampère",
+    "Indução (Faraday-Lenz), indutância",
+    "Equações de Maxwell e ondas planas"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Eletromagnetismo Ed 3 - Sadiku.pdf",
+    "Bibliografia/Livros/Eletromagnetismo Aplicado - Sturat Wentworth (z-lib.org).pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Eletromagnetismo Ed 3 - Sadiku.pdf",
+    "Bibliografia/Solutions/Solution - Eletromagnetismo Ed 8 - William Hayt, John Buck.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Eletromagnetismo",
+     "pasta": "Materiais/Eletromagnetismo_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 4,
+   "pasta": "04_Periodo/03_Equacoes_Diferenciais",
+   "nome": "Equações Diferenciais",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "EDOs de 1ª ordem: separáveis, lineares, exatas",
+    "EDOs lineares de 2ª ordem (coeficientes constantes)",
+    "Coeficientes indeterminados e variação de parâmetros",
+    "Transformada de Laplace e PVIs",
+    "Sistemas de EDOs e aplicações (RLC, massa-mola)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Equações Diferencias Elementares 9 Ed - Boyce e Diprima.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Equações Diferencias Elementares 9 Ed - Boyce e Diprima.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "MAT/340",
+     "pasta": "Materiais/MAT340_EDO_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 4,
+   "pasta": "04_Periodo/04_Estrutura_de_Materiais",
+   "nome": "Estrutura de Materiais",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Estrutura cristalina e defeitos",
+    "Condutores: resistividade e efeito da temperatura",
+    "Semicondutores intrínsecos e extrínsecos",
+    "Dielétricos: permissividade, rigidez dielétrica e perdas",
+    "Materiais magnéticos: histerese e perdas"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Materiais Eletricos - Prof. Jacqueline Gisèle Rolim.pdf",
+    "Bibliografia/Livros/Ciência e Tecnologia dos Materiais - Prof Eduardo Tavares.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Materiais",
+     "pasta": "Materiais/Materiais_Eletricos_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 4,
+   "pasta": "04_Periodo/05_Introducao_a_Termodinamica",
+   "nome": "Introdução à Termodinâmica",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Temperatura, calor e dilatação",
+    "Primeira lei da termodinâmica",
+    "Gases ideais e processos",
+    "Segunda lei, máquinas térmicas e ciclo de Carnot",
+    "Aplicações: ciclos de usinas termelétricas"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Física 2 - Young _ Freedman - 12ª ed.pdf",
+    "Bibliografia/Livros/Energia Termelétrica - Tolmasquim.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Física (I, II, III, IV) - Young _ Freedman - 12ª Edição.pdf"
+   ],
+   "legado": []
+  },
+  {
+   "periodo": 4,
+   "pasta": "04_Periodo/06_Projeto_Integrador_I",
+   "nome": "Projeto Integrador em Engenharia I",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Escopo, requisitos e cronograma de um projeto",
+    "Prototipagem com Arduino/ESP32",
+    "Documentação técnica e apresentação"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 5,
+   "pasta": "05_Periodo/01_Conversao_Eletromecanica_de_Energia",
+   "nome": "Conversão Eletromecânica de Energia",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Circuitos magnéticos, relutância e indutância",
+    "Perdas no núcleo (histerese e Foucault)",
+    "Transformador monofásico: circuito equivalente, ensaios, rendimento e regulação",
+    "Transformadores trifásicos e autotransformador",
+    "Princípios de conversão: energia, coenergia e força"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Maquinas Elétricas - Fitzgeral 7ed.pdf",
+    "Bibliografia/Livros/Fundamentos de Máquinas Eletricas - Chapman.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Maquinas Elétricas - Fitzgeral 7ed.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Conversão",
+     "pasta": "Materiais/Conversao_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 5,
+   "pasta": "05_Periodo/02_Eletronica_Basica",
+   "nome": "Eletrônica Básica",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Física dos semicondutores e junção PN",
+    "Diodos: modelos, retificadores, filtros capacitivos",
+    "Zener e reguladores",
+    "TBJ: polarização e chave",
+    "MOSFET: regiões de operação e chave"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Eletronica Vol 1 Ed 7 - Malvino.pdf",
+    "Bibliografia/Livros/Microeletronica - Sedra.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution -  Dispositivos Eletrônicos e Teoria de Circuitos Ed 11 - Boylestad.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Eletrônica/Lab I",
+     "pasta": "Materiais/Lab_Eletronica_I_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 5,
+   "pasta": "05_Periodo/03_Introducao_aos_SEP",
+   "nome": "Introdução aos Sistemas Elétricos de Potência",
+   "ch": 40,
+   "situacao": "A cursar",
+   "topicos": [
+    "Estrutura do SEP brasileiro (SIN, ONS, ANEEL)",
+    "Sistema por unidade (pu) e mudança de base",
+    "Modelos de linhas, transformadores e geradores",
+    "Introdução ao fluxo de potência",
+    "Curto-circuito trifásico simétrico"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Introdução aos Sistemas Elétricos de Potência - Robba.pdf",
+    "Bibliografia/Livros/Analise de Curto Circuito e Principios de proteção - Fujio Sato.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/SEP",
+     "pasta": "Materiais/SEP_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 5,
+   "pasta": "05_Periodo/04_Laboratorio_de_Fisica",
+   "nome": "Laboratório de Física",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Medidas, incertezas e propagação de erros",
+    "Gráficos e linearização; mínimos quadrados",
+    "Relatórios técnicos"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "FIS/224",
+     "pasta": "Materiais/FIS224_Lab_Fisica_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 5,
+   "pasta": "05_Periodo/05_Mecanica_Tecnica",
+   "nome": "Mecânica Técnica",
+   "ch": 40,
+   "situacao": "Cursando",
+   "topicos": [
+    "Vetores força e momento",
+    "Equilíbrio de partícula e de corpo rígido",
+    "Diagramas de corpo livre e reações de apoio",
+    "Treliças (método dos nós e das seções)",
+    "Centroides e momentos de inércia; aplicação a torres e estruturas"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Mecânica Vetorial para Engenheiros 5ª Edição - Vol 1 - Beer.pdf",
+    "Bibliografia/Livros/Mecânica Vetorial para Engenheiros 5ª Edição - Vol 2 - Beer.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Mecânica Vetorial para Engenheiros Ed 5 Vol 1 - Beer.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "FIS/233",
+     "pasta": "Materiais/FIS233_Mecanica_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 5,
+   "pasta": "05_Periodo/06_Meio_Ambiente_e_Energias_Renovaveis",
+   "nome": "Meio Ambiente, Sustentabilidade, Eficiência Energética e Energias Renováveis",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Matriz energética brasileira e impactos ambientais",
+    "Energia solar fotovoltaica (dimensionamento)",
+    "Energia eólica e hidráulica",
+    "Eficiência energética: iluminação, motores, tarifas (PROCEL)",
+    "Ecologia e licenciamento ambiental"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Energia Renovável - HIDRÁULICA, BIOMASSA, EÓLICA, SOLAR, OCEÂNICA.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "BIO/131",
+     "pasta": "Materiais/BIO131_Ecologia_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 6,
+   "pasta": "06_Periodo/01_Eletronica_Digital",
+   "nome": "Eletrônica Digital",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Sistemas de numeração e códigos",
+    "Álgebra booleana e mapas de Karnaugh",
+    "Circuitos combinacionais: MUX, decodificadores, somadores",
+    "Flip-flops, registradores e contadores",
+    "Máquinas de estado e introdução a VHDL/Verilog"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Sistemas Digitais Princípios e Aplicações - Ronald J. Tocci, Neal S. Widmer, Gregory L. Moss.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Sistemas Digitais",
+     "pasta": "Materiais/Sistemas_Digitais_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 6,
+   "pasta": "06_Periodo/02_Empreendedorismo_e_Negocios",
+   "nome": "Empreendedorismo e Negócios",
+   "ch": 80,
+   "situacao": "Dispensado",
+   "topicos": [
+    "Perfil empreendedor e oportunidades",
+    "Business Model Canvas",
+    "Plano de negócios e análise de mercado",
+    "Viabilidade financeira: ponto de equilíbrio, payback"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 6,
+   "pasta": "06_Periodo/03_Fenomenos_de_Transporte",
+   "nome": "Fenômenos de Transporte",
+   "ch": 40,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Propriedades dos fluidos e estática (pressão, manometria)",
+    "Equação da continuidade e de Bernoulli",
+    "Perdas de carga",
+    "Transferência de calor: condução, convecção e radiação",
+    "Aplicações: dissipadores, resfriamento de transformadores e transmissores"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Introdução à Mecânica dos Fluídos Ed 8 - Fox.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Fundamentos Manuais de Transferência de Calor e Massa Ed 6.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ENG/275",
+     "pasta": "Materiais/ENG275_Fenomenos_de_Transporte_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 6,
+   "pasta": "06_Periodo/04_Instrumentacao_Industrial",
+   "nome": "Instrumentação Industrial",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Características estáticas e dinâmicas de instrumentos",
+    "Sinais padrão 4–20 mA, 0–10 V e HART",
+    "Sensores de temperatura, pressão, nível e vazão",
+    "Pontes de Wheatstone e condicionamento de sinais",
+    "Medidas elétricas: wattímetros, TC/TP, terrômetro, osciloscópio"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Instrumentacao - Petrobras Curso.pdf",
+    "Bibliografia/Livros/Monitoramento e Controle de Processos - Marcelo Giglio Gonçalves.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Instrumentação",
+     "pasta": "Materiais/Instrumentacao_UFV"
+    },
+    {
+     "origem": "ELT/Medidas Elétricas",
+     "pasta": "Materiais/Medidas_Eletricas_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 6,
+   "pasta": "06_Periodo/05_Projeto_Integrador_II",
+   "nome": "Projeto Integrador em Engenharia II",
+   "ch": 40,
+   "situacao": "A cursar",
+   "topicos": [
+    "Projeto de sistema eletroeletrônico completo",
+    "Análise de requisitos e riscos",
+    "Integração hardware/software e testes"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 6,
+   "pasta": "06_Periodo/06_Sinais_e_Sistemas",
+   "nome": "Sinais e Sistemas",
+   "ch": 80,
+   "situacao": "Cursando",
+   "topicos": [
+    "Classificação de sinais e sistemas (LIT, causalidade, estabilidade)",
+    "Convolução contínua e discreta",
+    "Série e Transformada de Fourier",
+    "Transformada de Laplace e Transformada Z",
+    "Amostragem e teorema de Nyquist"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Sinais e Sistemas-Ed 2 - Oppenheim.pdf",
+    "Bibliografia/Livros/Sinais e Sistemas Lineares Ed 2 - Lathi.pdf",
+    "Bibliografia/Livros/Linear System Theory and Design (1999) - Chen, Chi-Tsong.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Sinais e Sistemas-Ed 2 - Oppenheim.pdf",
+    "Bibliografia/Solutions/Solution - Linear System Theory and Design (1999) - Chen, Chi-Tsong.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Sinais e Sistemas",
+     "pasta": "Materiais/Sinais_e_Sistemas_UFV"
+    },
+    {
+     "origem": "ELT/Fundamentos de Sistemas Lineares",
+     "pasta": "Materiais/Sistemas_Lineares_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 7,
+   "pasta": "07_Periodo/01_Eletronica_Analogica",
+   "nome": "Eletrônica Analógica",
+   "ch": 80,
+   "situacao": "Cursando",
+   "topicos": [
+    "Amplificadores com TBJ e MOSFET (pequenos sinais)",
+    "Amplificador operacional ideal: inversor, não inversor, somador, integrador",
+    "Resposta em frequência e produto ganho-banda",
+    "Filtros ativos (Sallen-Key) e osciladores",
+    "Reguladores lineares e fontes"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Eletronica Vol 2 Ed 7 - Malvino.pdf",
+    "Bibliografia/Livros/Microeletronica - Sedra.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution -  Dispositivos Eletrônicos e Teoria de Circuitos Ed 11 - Boylestad.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Eletrônica/Lab II",
+     "pasta": "Materiais/Lab_Eletronica_II_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 7,
+   "pasta": "07_Periodo/02_GTD",
+   "nome": "Geração, Transmissão e Distribuição de Energia Elétrica",
+   "ch": 40,
+   "situacao": "A cursar",
+   "topicos": [
+    "Geração hidráulica, térmica, eólica e solar",
+    "Parâmetros de linhas: resistência, indutância, capacitância",
+    "Modelos de linha curta, média e longa",
+    "Regulação de tensão e perdas",
+    "Distribuição: topologias, transformadores e indicadores (DEC/FEC)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Electric Power Generation, Transmission And Distribution - S. N. Singh.pdf",
+    "Bibliografia/Livros/Electric Power Generation, Transmission, and Distribution - Leonard L. Grigsby 3 Ed.pdf",
+    "Bibliografia/Livros/Energia Termelétrica - Tolmasquim.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/GTD",
+     "pasta": "Materiais/GTD_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 7,
+   "pasta": "07_Periodo/03_Instalacoes_Eletricas_Residenciais",
+   "nome": "Instalações Elétricas Residenciais",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "NBR 5410: previsão de cargas (iluminação e TUG/TUE)",
+    "Divisão de circuitos e demanda",
+    "Dimensionamento de condutores (ampacidade e queda de tensão)",
+    "Proteção: disjuntores, DR e DPS",
+    "Aterramento (TN, TT, IT) e projeto em planta"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Instalações Eletricas Prediais - Cavalin.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Instalação Elétrica",
+     "pasta": "Materiais/Instalacoes_Eletricas_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 7,
+   "pasta": "07_Periodo/04_IA_e_Analise_de_Dados",
+   "nome": "Inteligência Artificial e Análise de Dados",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Pandas e visualização de dados",
+    "Regressão linear e logística",
+    "Classificação (k-NN, árvores) e métricas",
+    "Agrupamento (k-means)",
+    "Redes neurais e aplicações em engenharia (detecção de falhas, séries temporais)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Digital Image Processing Using Matlab - Gonzalez Woods - Eddins.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Inteligência Computacional",
+     "pasta": "Materiais/Inteligencia_Computacional_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 7,
+   "pasta": "07_Periodo/05_Maquinas_Eletricas",
+   "nome": "Máquinas Elétricas",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Máquinas CC: tipos de excitação, torque e controle de velocidade",
+    "Motor de indução trifásico: escorregamento, circuito equivalente, torque",
+    "Partida de motores (direta, estrela-triângulo, soft-starter, inversor)",
+    "Máquina síncrona: gerador e motor, curvas V",
+    "Placa de motor, rendimento e fator de potência"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Fundamentos de Máquinas Eletricas - Chapman.pdf",
+    "Bibliografia/Livros/Maquinas Elétricas - Fitzgeral 7ed.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Maquinas Elétricas - Fitzgeral 7ed.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Máquinas",
+     "pasta": "Materiais/Maquinas_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 7,
+   "pasta": "07_Periodo/06_Modelagem_e_Controle",
+   "nome": "Modelagem e Controle",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Modelagem de sistemas elétricos, mecânicos e eletromecânicos",
+    "Função de transferência e diagrama de blocos",
+    "Resposta transitória de 1ª e 2ª ordem",
+    "Estabilidade (Routh-Hurwitz) e erro em regime",
+    "Lugar das raízes e controladores PID"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Engenharia de Controle Moderno - Ogata Katsuhiko.pdf",
+    "Bibliografia/Livros/Sistemas De Controle Modernos 8A Ed - Dorf - Ltc.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Controle/I",
+     "pasta": "Materiais/Controle_I_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 8,
+   "pasta": "08_Periodo/01_Administracao_e_Aspectos_Legais",
+   "nome": "Administração e Aspectos Legais",
+   "ch": 80,
+   "situacao": "Aprovado",
+   "topicos": [
+    "Funções administrativas (PODC) e estruturas organizacionais",
+    "Gestão de pessoas e liderança de equipes técnicas",
+    "Legislação profissional: CONFEA/CREA, ART",
+    "Noções de direito do trabalho, contratos e NRs",
+    "Código de Defesa do Consumidor e responsabilidade técnica"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Administração  teoria e prática no contexto brasileiro - Alketa Peci e Filipe Sobral.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ADM/100",
+     "pasta": "Materiais/ADM100_Administracao_UFV"
+    },
+    {
+     "origem": "DIR/130",
+     "pasta": "Materiais/DIR130_Direito_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 8,
+   "pasta": "08_Periodo/02_Gestao_de_Projetos",
+   "nome": "Gestão de Projetos",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Ciclo de vida e áreas de conhecimento (PMBOK)",
+    "EAP, cronograma e caminho crítico (CPM/PERT)",
+    "Custos e valor agregado (EVM)",
+    "Riscos, qualidade e comunicação",
+    "Métodos ágeis (Scrum, Kanban)"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 8,
+   "pasta": "08_Periodo/03_Principios_das_Comunicacoes",
+   "nome": "Princípios das Comunicações",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Sinais, espectro e largura de banda; decibéis",
+    "Modulação AM, DSB, SSB e FM",
+    "Ruído, SNR e figura de ruído",
+    "Amostragem, PCM e modulações digitais (ASK, FSK, PSK, QAM)",
+    "Capacidade de canal (Shannon) e OFDM (ISDB-T)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Introdução aos Sistemas de Comunicação Ed 2 - Haykin.pdf",
+    "Bibliografia/Livros/Princípios de Telecomunicações Teoria e Prática Ed 5 - Julio Cesar De Oliveira Medeiros.pdf",
+    "Bibliografia/Livros/Princípios de Telecomunicações Teoria e Prática Ed 2 - Julio Cesar De Oliveira Medeiros.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Communication Systems Ed 5 - Simon Haykin, Michael Moher.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Telecomunicações",
+     "pasta": "Materiais/Telecomunicacoes_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 8,
+   "pasta": "08_Periodo/04_Projeto_de_Sistemas_Realimentados",
+   "nome": "Projeto de Sistemas Realimentados",
+   "ch": 40,
+   "situacao": "A cursar",
+   "topicos": [
+    "Resposta em frequência: Bode, margens de ganho e de fase",
+    "Critério de Nyquist",
+    "Compensadores avanço/atraso",
+    "Sintonia de PID (Ziegler-Nichols)",
+    "Controle digital e Transformada Z"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Engenharia de Controle Moderno - Ogata Katsuhiko.pdf",
+    "Bibliografia/Livros/Digital Control System Analysis and Design 3E - Charles Philips & Troy Nagle.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Controle/II",
+     "pasta": "Materiais/Controle_II_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 8,
+   "pasta": "08_Periodo/05_Sistemas_Embarcados",
+   "nome": "Sistemas Embarcados",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Arquitetura de microcontroladores (AVR, ARM Cortex-M, ESP32)",
+    "GPIO, interrupções e temporizadores",
+    "ADC, PWM e comunicação serial (UART, I2C, SPI)",
+    "RTOS e programação concorrente",
+    "Linux embarcado e IoT (MQTT, SNMP)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Sistemas Operacionais - Programação Concorrente com Pthreads - Celso Maciel da Costa.pdf",
+    "Bibliografia/Livros/C_ Multithreaded and Parallel Programming (2014, Packt Publishing) - Rodney Ringler.pdf",
+    "Bibliografia/Livros/Concurrency in C_ Cookbook_ Asynchronous, Parallel, and Multithreaded Programming (2014, O'Reilly Media) - Stephen Cleary.pdf",
+    "Bibliografia/Livros/Multithreading in C_ 5.0 Cookbook (2013, Packt Publishing) - Eugene Agafonov.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Automação em Tempo Real",
+     "pasta": "Materiais/Automacao_Tempo_Real_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 9,
+   "pasta": "09_Periodo/01_Economia_da_Engenharia",
+   "nome": "Economia da Engenharia",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Juros simples e compostos; equivalência de capitais",
+    "Séries uniformes (Price) e SAC",
+    "VPL, TIR e payback",
+    "Depreciação e análise de substituição de equipamentos",
+    "Análise de sensibilidade e viabilidade de projetos de energia"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ECO/270",
+     "pasta": "Materiais/ECO270_Economia_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 9,
+   "pasta": "09_Periodo/02_Estagio_Supervisionado",
+   "nome": "Estágio Supervisionado em Engenharia Elétrica",
+   "ch": 160,
+   "situacao": "A cursar",
+   "topicos": [
+    "Plano de atividades e relatório de estágio",
+    "Registro de atividades técnicas e evidências"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 9,
+   "pasta": "09_Periodo/03_Optativa",
+   "nome": "Optativa (1)",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Sugestões alinhadas à área: Robótica Móvel, Processamento Digital de Sinais, Antenas e Propagação, Eletrônica de Potência"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 9,
+   "pasta": "09_Periodo/04_Robotica_Industrial",
+   "nome": "Robótica Industrial",
+   "ch": 40,
+   "situacao": "A cursar",
+   "topicos": [
+    "Componentes e tipos de manipuladores",
+    "Matrizes de rotação e transformações homogêneas",
+    "Cinemática direta (Denavit-Hartenberg)",
+    "Cinemática inversa e jacobiano",
+    "Programação de robôs e segurança (NR-12)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Introduction to Robotics Mechanics and Control 3ed - John J.Craig.pdf",
+    "Bibliografia/Livros/Robótica - Craig.pdf",
+    "Bibliografia/Livros/Modelling and Control of Robot Manipulators - Sciavicco Siciliano.pdf",
+    "Bibliografia/Livros/Robot Modeling and Control - JOHN WILEY & SONS, INC.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Robotica industrial",
+     "pasta": "Materiais/Robotica_Industrial_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 9,
+   "pasta": "09_Periodo/05_TCC_I",
+   "nome": "Trabalho de Conclusão de Curso em Engenharia Elétrica I",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Escolha do tema e problema de pesquisa",
+    "Revisão bibliográfica sistemática",
+    "Metodologia e cronograma",
+    "Projeto de TCC (ABNT NBR 14724)"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 10,
+   "pasta": "10_Periodo/01_Acionamento_e_Protecao",
+   "nome": "Acionamento e Proteção de Sistemas Elétricos",
+   "ch": 40,
+   "situacao": "A cursar",
+   "topicos": [
+    "Comandos elétricos: contatores, relés térmicos, intertravamento",
+    "Partidas de motores e inversores de frequência",
+    "Dispositivos de proteção: fusíveis, disjuntores, relés (ANSI 50/51, 87)",
+    "Coordenação e seletividade",
+    "Transformadores de corrente e potencial para proteção"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Analise de Curto Circuito e Principios de proteção - Fujio Sato.pdf",
+    "Bibliografia/Livros/Eletronica de potencia Dispositivos, circuitos e aplicações by Muhammad H. Rashid.pdf",
+    "Bibliografia/Livros/Eletrônica de Potência - Ashfaq Ahmed.pdf",
+    "Bibliografia/Livros/Controladores Lógicos Programáveis - Petruzella.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solutions - Manual Power Electronics_4th.pdf"
+   ],
+   "legado": []
+  },
+  {
+   "periodo": 10,
+   "pasta": "10_Periodo/02_Atividades_Complementares",
+   "nome": "Atividades Complementares em Engenharia Elétrica",
+   "ch": 60,
+   "situacao": "A cursar",
+   "topicos": [
+    "Registro de cursos, eventos, publicações e projetos para validação"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "periodo": 10,
+   "pasta": "10_Periodo/03_Instalacoes_Eletricas_Industriais",
+   "nome": "Instalações Elétricas Industriais",
+   "ch": 40,
+   "situacao": "A cursar",
+   "topicos": [
+    "Fator de demanda, diversidade e carga instalada",
+    "Dimensionamento de condutores e de transformadores",
+    "Correção do fator de potência com bancos de capacitores",
+    "Curto-circuito em instalações industriais",
+    "Qualidade de energia: harmônicos, afundamentos, flicker",
+    "Proteção contra descargas atmosféricas (NBR 5419) e SPDA"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Instalações Elétricas Industriais - Mamede.pdf",
+    "Bibliografia/Livros/Analise de Curto Circuito e Principios de proteção - Fujio Sato.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/QEE",
+     "pasta": "Materiais/Qualidade_de_Energia_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 10,
+   "pasta": "10_Periodo/04_Redes_Industriais",
+   "nome": "Redes Industriais de Computadores",
+   "ch": 80,
+   "situacao": "A cursar",
+   "topicos": [
+    "Modelo OSI/TCP-IP e endereçamento IP (sub-redes)",
+    "Ethernet industrial, VLAN, STP/RSTP e IGMP",
+    "Protocolos: Modbus RTU/TCP, Profibus, Profinet, EtherNet/IP",
+    "SNMP, OPC UA e supervisórios SCADA",
+    "CLPs (IEC 61131-3) e arquitetura de automação"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Controladores Lógicos Programáveis - Petruzella.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Automação",
+     "pasta": "Materiais/Automacao_UFV"
+    }
+   ]
+  },
+  {
+   "periodo": 10,
+   "pasta": "10_Periodo/05_TCC_II",
+   "nome": "Trabalho de Conclusão de Curso em Engenharia Elétrica II",
+   "ch": 100,
+   "situacao": "A cursar",
+   "topicos": [
+    "Desenvolvimento, resultados e discussão",
+    "Redação final e defesa"
+   ],
+   "livros": [],
+   "solucoes": [],
+   "legado": []
+  }
+ ],
+ "complementares": [
+  {
+   "pasta": "Complementares/Telecom_e_Radiodifusao",
+   "nome": "Telecomunicações e Radiodifusão (trilha extra)",
+   "topicos": [
+    "Decibéis (dB, dBm, dBW, dBµV) e cálculo de enlace",
+    "Linhas de transmissão, ROE e perda de retorno",
+    "Antenas: ganho, ERP/EIRP e diagramas",
+    "Propagação: espaço livre, zona de Fresnel, horizonte de rádio",
+    "ISDB-T: segmentos, modos, intervalo de guarda, SFN e MER",
+    "Transport Stream MPEG-2 (PIDs, PSI/SI)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Introdução aos Sistemas de Comunicação Ed 2 - Haykin.pdf",
+    "Bibliografia/Livros/Princípios de Telecomunicações Teoria e Prática Ed 5 - Julio Cesar De Oliveira Medeiros.pdf"
+   ],
+   "solucoes": [],
+   "legado": []
+  },
+  {
+   "pasta": "Complementares/Calculo_Numerico",
+   "nome": "Cálculo Numérico",
+   "topicos": [
+    "Erros e aritmética de ponto flutuante",
+    "Raízes: bissecção, Newton-Raphson, secante",
+    "Sistemas lineares: Gauss, LU, Gauss-Seidel",
+    "Interpolação e ajuste de curvas",
+    "Integração numérica e EDOs (Euler, Runge-Kutta)"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Cálculo Numerico (Apostila).pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solution - Cálculo Numerico (Apostila).pdf"
+   ],
+   "legado": [
+    {
+     "origem": "MAT/271",
+     "pasta": "Materiais/MAT271_Calculo_Numerico_UFV"
+    }
+   ]
+  },
+  {
+   "pasta": "Complementares/Eletronica_de_Potencia",
+   "nome": "Eletrônica de Potência",
+   "topicos": [
+    "Retificadores monofásicos e trifásicos",
+    "Conversores CC-CC (buck, boost, buck-boost)",
+    "Inversores e PWM",
+    "Dispositivos: SCR, IGBT, MOSFET de potência"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Eletronica de potencia Dispositivos, circuitos e aplicações by Muhammad H. Rashid.pdf",
+    "Bibliografia/Livros/Eletrônica de Potência - Ashfaq Ahmed.pdf"
+   ],
+   "solucoes": [
+    "Bibliografia/Solutions/Solutions - Manual Power Electronics_4th.pdf"
+   ],
+   "legado": [
+    {
+     "origem": "ELT/Potência",
+     "pasta": "Materiais/Eletronica_de_Potencia_UFV"
+    }
+   ]
+  },
+  {
+   "pasta": "Complementares/Robotica_Movel",
+   "nome": "Robótica Móvel",
+   "topicos": [
+    "Cinemática de robôs diferenciais",
+    "Sensores e odometria",
+    "Planejamento de trajetória"
+   ],
+   "livros": [
+    "Bibliografia/Livros/Robot Modeling and Control - JOHN WILEY & SONS, INC.pdf",
+    "Bibliografia/Livros/Digital image processing-Pearson (2018) - Gonzalez, Rafael C._ Woods, Richard E.pdf"
+   ],
+   "solucoes": [],
+   "legado": [
+    {
+     "origem": "ELT/Robotica Movel",
+     "pasta": "Materiais/Robotica_Movel_UFV"
+    }
+   ]
+  }
+ ]
+}
